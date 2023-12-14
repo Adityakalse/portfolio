@@ -70,10 +70,10 @@ nav ul li a:hover::after{
 .header-text h1 span{
     color: #ff004f;
 }
-#sidemenu{
+/* #sidemenu{
     padding-left: 580px;
 }
-/* -----------about----------- */
+/* -----------about----------- */ */
 #about{
     padding: 80px 0;
     color: #ababab;
